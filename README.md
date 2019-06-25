@@ -10,33 +10,33 @@
 
 # &#128214; Table of Contents
 
-- [어떻게 공부해야 하는가?]: #어떻게-공부해야-하는가?
+- [어떻게 공부해야 하는가?]: #어떻게-공부해야-하는가?	"어떻게 공부해야 하는가?"
 
-- [Section 1. Computer Science]: #section-1.-computer-science
+- [Section 1. Computer Science]: #section-1.-computer-science	"Section 1. Computer Science"
 
-  - [Operating System]: ./Computer_Science/Operating_System
+  - [Operating System]: ./Computer_Science/Operating_System	"Section 1. Computer Science"
 
-  - [Network]: ./Computer_Science/Network
+  - [Network]: ./Computer_Science/Network	"Network"
 
-  - [Algorighm]: ./Computer_Science/Algorithm
+  - [Algorighm]: ./Computer_Science/Algorithm	"Algorighm"
 
-  - [Database]: ./Computer_Science/Database
+  - [Database]: ./Computer_Science/Database	"Database"
 
-  - [Desgin Pattern]: ./Computer_Science/Desgin_Pattern
+  - [Desgin Pattern]: ./Computer_Science/Desgin_Pattern	"Desgin Pattern"
 
-- [Section 2. Languages]: #section-2.-languages
+- [Section 2. Languages]: #section-2.-languages	"Section 2. Languages"
 
-  - [C++]: ./Languages/Cpp
+  - [C++]: ./Languages/Cpp	"C++"
 
-  - [Python]: ./Languages/Python
+  - [Python]: ./Languages/Python	"Python"
 
-  - [Java]: ./Languages/Java
+  - [Java]: ./Languages/Java	"Java"
 
-- [Section 3. Machine Learning]: #section-3.-machine-learning
+- [Section 3. Machine Learning]: #section-3.-machine-learning	"Section 3. Machine Learning"
 
-  - [tmp]: 
+  
 
-    
+  
 
   
 
