@@ -1,6 +1,6 @@
 ------
 
-![cover_photo](E:\markdown\studybook\assets\cover_photo.png)
+![cover_photo](./assets/cover_photo.png)
 
 ## For tracking essential reasons of IT concepts
 
@@ -12,39 +12,39 @@
 
 - [어떻게 공부해야 하는가?]: #어떻게-공부해야-하는가?	"어떻게 공부해야 하는가?"
 
-- [Section 1. Computer Science]: #section-1.-computer-science	"Section 1. Computer Science"
+- [Section 1. Computer Science]:(#section-1.-computer-science)
 
-  - [Operating System]: ./Computer_Science/Operating_System	"Section 1. Computer Science"
+  - [Operating System]:(./Computer_Science/Operating_System)
 
-  - [Network]: ./Computer_Science/Network	"Network"
+  - [Network]:(./Computer_Science/Network)
 
-  - [Algorighm]: ./Computer_Science/Algorithm	"Algorighm"
+  - [Algorighm]:(./Computer_Science/Algorithm)
 
-  - [Database]: ./Computer_Science/Database	"Database"
+  - [Database]:(./Computer_Science/Database)
 
-  - [Desgin Pattern]: ./Computer_Science/Desgin_Pattern	"Desgin Pattern"
+  - [Desgin Pattern]:(./Computer_Science/Desgin_Pattern)
 
-- [Section 2. Languages]: #section-2.-languages	"Section 2. Languages"
+- [Section 2. Languages]:(#section-2.-languages)
 
-  - [C++]: ./Languages/Cpp	"C++"
+  - [C++]:(./Languages/Cpp)
 
-  - [Python]: ./Languages/Python	"Python"
+  - [Python]:(./Languages/Python)
 
-  - [Java]: ./Languages/Java	"Java"
+  - [Java]:(./Languages/Java)
 
-- [Section 3. Machine Learning]: #section-3.-machine-learning	"Section 3. Machine Learning"
+- [Section 3. Machine Learning]:(#section-3.-machine-learning)
 
-  
 
-  
 
-  
+
+
+
 
 # &#127992; 어떻게 공부해야 하는가?
 
 #### 능동적인 공부
 
-지금껏 저는 글을 읽고 해당부분을 이해까지만 하는 공부를 해왔습니다. 하지만 이는 죽은 공부입니다. 단순 암기보다는 분명 기억에 오래 남겠지만, 단순 이해 또한 사고의 확장에 한계가 있습니다. 공부를 한 후에는 반드시 더 많은 사고의 시간이 필요합니다. 끊임없이 생각하고 활용해야 합니다. 
+지금껏 저는 글을 읽고 해당부분을 이해까지만 하는 공부를 해왔습니다. 하지만 이는 죽은 공부입니다. 단순 암기보다는 분명 기억에 오래 남겠지만, 단순 이해 또한 사고의 확장에 한계가 있습니다. 공부를 한 후에는 반드시 더 많은 사고의 시간이 필요합니다. 끊임없이 생각하고 활용해야 합니다.
 
 어떠한 개념을 **읽고** **이해**했으면 **다시 정리**를 합니다. 여기서 끝나면 결코 내것으로 만들 수 없습니다. 정리된 내용을 **머릿속에서 끄집어내는 연습**이 필요합니다. 그리고 그 내용을 현실세계에서 **어떻게 활용**할 수 있는지 생각해보고 이 또한 정리해야합니다. 그렇게 능동적인 공부 습관이 필요합니다.
 
@@ -84,13 +84,11 @@
 
 # Section 1. Computer Science
 
-##  💻 Operating System
-
-[Go]: ./Operating_System
+##  💻 Operating System [Link]:(./Computer_Science/Operating_System)
 
 
 
-### 
+###
 
 
 
@@ -112,9 +110,7 @@
 
 # Section 2. Languages
 
-## C++
-
-[Go]: ./Cpp
+## C++ [Link]:(./Languages/Cpp)
 
 
 
@@ -135,8 +131,3 @@
 
 
 # Section 3. Machine Learning
-
-
-
-
-
