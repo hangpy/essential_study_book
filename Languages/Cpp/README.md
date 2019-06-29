@@ -306,7 +306,7 @@ C와 C++에서 `const`는 변수의 값이 바뀌는 것을 방지하기 위해 
 
 ```c++
 const int* const Method(const int* const pointer) const;
-//1			 2			  3			 4				5
+//1          2            3          4              5
 ```
 
 이게 무슨 해괴망측한 함수인가 싶겠지만 절망스럽게도 컴파일시 전혀 문제가 없는 함수이다. 위 다섯개의 `const`는 각기의 위치에서 자신 만의 안정창치를 설치한다. 목표는 위 함수를 완전하게 이해하고 활용할 수 있는 것. 저런 망측한 함수를 만나도 절대 쫄지 않는 것이다.
@@ -335,17 +335,16 @@ p2 = np; // 불가능
 ```c++
 void func1(const int * const input)
 {
-   	int a = input[0];	// 가능
-	input = new int[3];	// 불가능
+    int a = input[0];	// 가능
+    input = new int[3];	// 불가능
     input[0] = 10;		// 불가능
 }
 
-int main()
-{
-	int * np = new int[2];
-	np[0] = 1;
-	np[1] = 2;
-	const int *p = func(np);
+int main() {
+    int * np = new int[2];
+    np[0] = 1;
+    np[1] = 2;
+    const int *p = func(np);
     return 0;
 }
 ```
@@ -360,9 +359,9 @@ int main()
 class TestClass
 {
 public:
-	const int data;
+    const int data;
     TestClass():data(10){};
-	int getData() const{ 
+    int getData() const{ 
         data = 30;	// 불가
         return data;
     }
