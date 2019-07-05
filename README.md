@@ -13,17 +13,16 @@
 - [어떻게 공부해야 하는가?](#어떻게-공부해야-하는가?)
 
 - [Section 1. Computer Science](#section-1.-computer-science)
-
-  - [Operating System](./Computer_Science/Operating_System)
-
-  - [Network](./Computer_Science/Network)
-
-  - [Algorighm](./Computer_Science/Algorithm)
-
-  - [Database](./Computer_Science/Database)
-
-  - [Desgin Pattern](./Computer_Science/Desgin_Pattern)
-
+- [Operating System](./Computer_Science/Operating_System)
+  
+- [Network](./Computer_Science/Network)
+  
+- [Algorighm](./Computer_Science/Algorithm)
+  
+- [Database](./Computer_Science/Database)
+  
+- [Desgin Pattern](./Computer_Science/Desgin_Pattern)
+  
 - [Section 2. Languages](#section-2.-languages)
 
   - [C++](./Languages/Cpp)
