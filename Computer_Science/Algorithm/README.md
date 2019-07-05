@@ -18,9 +18,9 @@
 
 ### SSP (Single Source Shortest Path) - 단일 출발지 최단경로
 
-[다익스트라 알고리즘 (Dijkstra Algorithm)](./Dijkstra)
+[다익스트라 알고리즘 (Dijkstra Algorithm)](./Dijkstra.md)
 
-[벨만 포드 알고리즘 (Bellman-Ford Algorithm)](./Bellman-Ford)
+[벨만 포드 알고리즘 (Bellman-Ford Algorithm)](./Bellman-Ford.md)
 
 ### ASP (All Pairs Shortest Path) - 모든 쌍 최단경로
 
